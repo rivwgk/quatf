@@ -1,0 +1,12 @@
+name = "quatf"
+version = "0.1.0"
+license = "license"
+author = "Tobias Ehlert"
+maintainer = "tobias.ehlert@ovgu.de"
+copyright = "Copyright 2022, Tobias Ehlert"
+[build]
+   auto-executables = false
+   auto-tests = false
+   auto-examples = false
+[install]
+   library = true
