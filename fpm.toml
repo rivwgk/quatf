@@ -1,12 +1,13 @@
 name = "quatf"
 version = "0.1.0"
-license = "license"
-author = "Tobias Ehlert"
-maintainer = "tobias.ehlert@ovgu.de"
-copyright = "Copyright 2022, Tobias Ehlert"
+license = "Apache-2.0"
+author = ["Tobias Ehlert"]
+maintainer = ["@rivwgk"]
+copyright = "2022, Tobias Ehlert"
+
 [build]
-   auto-executables = false
-   auto-tests = false
-   auto-examples = false
+auto-tests = false
+auto-examples = false
+
 [install]
-   library = true
+library = true

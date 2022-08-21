@@ -1,3 +1,5 @@
+! SPDX-Identifier: Apache-2.0
+
 program check
    implicit none
 

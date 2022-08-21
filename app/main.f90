@@ -1,3 +1,5 @@
+! SPDX-Identifier: Apache-2.0
+
 program main
    use iso_fortran_env, only: sp => real32
    use quatf
