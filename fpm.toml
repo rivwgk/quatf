@@ -3,7 +3,7 @@ version = "0.1.0"
 license = "Apache-2.0"
 author = ["Tobias Ehlert"]
 maintainer = ["@rivwgk"]
-copyright = "2022, Tobias Ehlert"
+copyright = "2022-2023, Tobias Ehlert"
 
 [build]
 auto-tests = false
